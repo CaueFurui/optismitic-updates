@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Rodrigo Costa",
+      "username": "costarodrigo22",
+      "blocked": false
+    },
+    {
+      "id": "2",
+      "name": "Guilherme Araújo",
+      "username": "viieiiragui",
+      "blocked": false
+    },
+    {
+      "id": "3",
+      "name": "Mateus Silva",
+      "username": "maateusilva",
+      "blocked": false
+    },
+    {
+      "id": "4",
+      "name": "Caue Furui",
+      "username": "cauefurui",
+      "blocked": true
+    }
+  ]
+}
